@@ -3,6 +3,7 @@
     "containerDefinitions": [
         {
             "name": "flask",
+	    "image": "IMAGE_URI_PLACEHOLDER",
             "cpu": 0,
             "portMappings": [
                 {
