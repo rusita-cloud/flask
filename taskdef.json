@@ -85,6 +85,6 @@
         "operatingSystemFamily": "LINUX"
     },
     "registeredAt": "2024-09-28T07:03:44.646Z",
-    "registeredBy": "arn:aws:iam::010928196990:user/cda_tutor",
+    "registeredBy": "arn:aws:iam::010928196990:user/cda_tutor"
 }
 
