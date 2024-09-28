@@ -3,7 +3,6 @@
     "containerDefinitions": [
         {
             "name": "flask",
-            "image": "010928196990.dkr.ecr.ap-northeast-2.amazonaws.com/rusita/flask:$IMAGE_TAG",
             "cpu": 0,
             "portMappings": [
                 {
