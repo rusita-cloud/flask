@@ -1,5 +1,4 @@
 {
-    "taskDefinitionArn": "arn:aws:ecs:ap-northeast-2:010928196990:task-definition/ecs-flask-task:21",
     "containerDefinitions": [
         {
             "name": "flask",
