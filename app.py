@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return 'Hello Cloud! - CICD_Pipeline'
+    return 'Hello Cloud! - Continuous_Deployment'
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
